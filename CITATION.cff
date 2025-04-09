@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this macro, please cite it as below."
+authors:
+- family-names: "Jakiel"
+  given-names: "Mateusz"
+  orcid: "https://orcid.org/0009-0005-1717-8037"
+title: "CellErosionDetector"
+version: 1.0
+date-released: 2024-04-09
+url: "https://github.com/MateuszJakiel/CellErosionDetector"
